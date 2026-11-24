@@ -1,7 +1,7 @@
 # Hospital-Management-System
 
-# Reg No:212225040179
-# Name:Kaviya R
+# Reg No:212225040132
+# Name:Indhu V
 # Date:24/11/2026
 
 
