@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040179
+# Name:Kaviya R
+# Date:24/11/2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1237" height="890" alt="A-4" src="https://github.com/user-attachments/assets/1043da5f-4c80-4aa8-a0df-4f0911b04719" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1232" height="888" alt="C-4" src="https://github.com/user-attachments/assets/dde5dd59-8f0f-44ea-9422-3e01b1823d96" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -69,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1232" height="892" alt="CC-3" src="https://github.com/user-attachments/assets/8bd9580f-5ab2-40ad-b5e7-7ebb276160b8" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1237" height="887" alt="P-4" src="https://github.com/user-attachments/assets/dfa32ceb-5510-4e36-859d-4a12065bf7e0" />
 
 
 
@@ -99,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1240" height="886" alt="4" src="https://github.com/user-attachments/assets/8ff048be-8dc5-4c62-a2f5-3887ee12c436" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1237" height="897" alt="S-5" src="https://github.com/user-attachments/assets/382eddaf-546b-4d16-9519-f5c0c9e51bef" />
 
 
 
